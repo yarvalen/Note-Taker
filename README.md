@@ -12,8 +12,8 @@ A deplyed link of the application has been created in Heroku. See below screen s
 - License
 
 ## Screen Shot
-<img src="Note-Taker/example/Frontpage.png" alt="front page">
-<img src="Note-Taker/example/Notes.png" alt="notes page">
+<img src="./example/Frontpage.png" alt="front page">
+<img src="./example/Notes.png" alt="notes page">
 
 ## Installation
 npm i 
