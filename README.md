@@ -19,7 +19,7 @@ A deplyed link of the application has been created in Heroku. See below screen s
 npm i 
 
 ## Deployed Application
-Link: 
+Link: https://ancient-brushlands-24946.herokuapp.com
 
 ## Credits
 Instructor: Saurav Khatiwada 
